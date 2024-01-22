@@ -19,7 +19,7 @@ Tenho 21 anos, sou um apaixonado por tecnologia, especialmente interessado em Ci
 
 ## **🧑‍💻 Contribuições** 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RafaelCF02&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RafaelCF02&theme=black-ice&border=2BCDFF)](https://git.io/streak-stats)
 
 ## **🔗 Conecte-se Comigo**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-costa-6b37ba200)
