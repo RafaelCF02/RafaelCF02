@@ -1,6 +1,6 @@
 # Rafael Costa
 
-Sou um entusiasta da segurança cibernética, comprometido em desenvolver soluções eficazes para proteger dados e sistemas. Minhas habilidades em programação e análise de vulnerabilidades, aliadas ao meu valor de proteger organizações e indivíduos, me motivam a enfrentar os desafios dinâmicos da área. Estou focado em contribuir para a integridade, confidencialidade e disponibilidade das informações, ajudando as organizações a manter uma postura de segurança robusta e a mitigar riscos.
+Sou um entusiasta da segurança cibernética, comprometido em proteger dados e sistemas. Tenho habilidades em programação e análise de vulnerabilidades, e me motiva enfrentar os desafios dinâmicos da área. Estou ansioso para contribuir para a segurança das organizações e ajudar a mitigar riscos. Acredito que meu conhecimento em tecnologias e meu desejo contínuo de aprender me tornam um candidato forte para uma posição na área de segurança cibernética.
 
 ## 💻 **Hard Skills**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)  
