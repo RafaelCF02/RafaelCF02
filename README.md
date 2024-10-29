@@ -1,6 +1,6 @@
 # Rafael Costa
 
-Tenho 21 anos, sou um apaixonado por tecnologia, especialmente interessado em Cibersegurança. Estou constantemente em busca de ampliar meus conhecimentos no universo digital, explorando-o de maneira abrangente.
+Sou um entusiasta da segurança cibernética, comprometido em desenvolver soluções eficazes para proteger dados e sistemas. Minhas habilidades em programação e análise de vulnerabilidades, aliadas ao meu valor de proteger organizações e indivíduos, me motivam a enfrentar os desafios dinâmicos da área. Estou focado em contribuir para a integridade, confidencialidade e disponibilidade das informações, ajudando as organizações a manter uma postura de segurança robusta e a mitigar riscos.
 
 ## 💻 **Hard Skills**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)  
